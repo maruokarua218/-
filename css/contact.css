@@ -1,0 +1,37 @@
+input[type="submit"]{color:white;
+background-color:#008B8B;
+padding: 10px 10px;
+font-size: 3rem;
+
+}
+
+.button:hover {
+  opacity: 0.5;
+}
+
+.button{text-align: center
+}
+.box{width:480px;
+}
+
+
+.moji{height:7rem;
+}
+
+.moji{width:150px;
+}
+
+.moji{margin:10px;
+}
+
+.side_menu .chenge_color{
+background-color:#FCECEC;
+}
+
+.side_menu .chenge_color a{color:#4D4D4D;
+}
+
+.footer{position: absolute;
+  bottom: 0
+
+}
